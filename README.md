@@ -20,6 +20,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/underhoney/underhoney/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/underhoney/underhoney/blob/output/snake.svg" alt="Snake animation" />
 
 ###
