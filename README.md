@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+  <img src="https://wakatime.com/badge/user/f78d919e-16a0-4812-b9e1-f190eb840c5f.svg"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=underhoney.underhoney&"  />
 </div>
 
