@@ -12,7 +12,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/xTiTnDrTTAaq076hZS/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/PyIFkXfjIcIcE/giphy.gif"  />
 </div>
 
 ###
@@ -33,7 +33,8 @@
 <br clear="both">
 <br clear="both">
 
-<p align="center">recommend me music<br>i'm bored :/</p>
+<p align="center">recommend me music<br>currently learning three js 🚸 !</p>
+<p align="center">also looking for a project buddy 🎈</p>
 
 ###
 
